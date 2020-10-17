@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/JSengottuvel/JSengottuvel.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Jayakumar!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://jayakumar.de/wp-content/uploads/2020/06/jayakumar-sengottuvel.jpg)
 
-### Markdown
+I am a Software Engineer, passionate about technologies that can make a difference to our lives!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently employed with an automotive supplier in Germany as **AutoSAR BSW engineer**.
 
-```markdown
-Syntax highlighted code block
+As feature architect and lead software engineer , I am working on development of (Ethernet) **DoIP** On Board tester for use-case **Remote Diagnostics** and **FOTA**. This a new generation _telematic control unit_(TCU).
 
-# Header 1
-## Header 2
-### Header 3
+During *16* years of my career, I have played different roles and accumulated working experience in **IoT product development**, **connected vehicle technology** & Automotive firmware. 
 
-- Bulleted
-- List
+The key roles are …
 
-1. Numbered
-2. List
+- Lead software engineer 
+- Senior Software Architect & Feature Architect
+- Project coordinator & Scrum Master 
+- System engineer 
 
-**Bold** and _Italic_ and `Code` text
+In my free time , I work on projects and case studies which feed my passion for technology. 
 
-[Link](url) and ![Image](src)
-```
+I will be adding new section with the case studies in the near future. So, Please stay tuned!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSengottuvel/JSengottuvel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To know more about my past experience and projects, please visit my profile page on [Linked in](https://www.linkedin.com/in/jayakumar-sengottuvel).
